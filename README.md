@@ -1,2 +1,1 @@
-# dashgo
-IgniteReactJS-Dashgo
+Painel administrativo contendo fluxo de autenticação, dashboard, listagem e cadastro usando Chakra UI no Next.js. Uso do React Query para melhorar a experiência de uso da aplicação criando uma camada de cache de dados entre o front-end e o back-end. 
