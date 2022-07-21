@@ -18,3 +18,7 @@
 <br>
 
 <h1>🔧 Dependencias</h1>
+
+<br>
+
+<h1>📚 Requisitos</h1>
