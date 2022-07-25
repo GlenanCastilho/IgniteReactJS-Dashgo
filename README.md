@@ -30,9 +30,9 @@
 <h1>📚 Requisitos</h1>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Git</li>
+  <li>Node.js</li>
+  <li>Yarn</li>
 </ul>
 
    <br>
