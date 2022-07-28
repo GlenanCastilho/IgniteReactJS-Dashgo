@@ -21,7 +21,7 @@
 
 <ul>
   <li>Chakra Ui</li>
-  <li>react-hook-form</li>
+  <li>React Hook Form</li>
   <li>Axios</li>
   <li>React Icons</li>
   <li>React Query</li>
