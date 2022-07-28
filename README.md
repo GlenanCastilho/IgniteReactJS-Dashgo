@@ -20,9 +20,13 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Chakra Ui</li>
+  <li>react-hook-form</li>
+  <li>Axios</li>
+  <li>React Icons</li>
+  <li>React Query</li>
+  <li>Yup</li>
+  <li>Next</li>
 </ul>
 
 <br>
